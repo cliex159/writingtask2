@@ -75,34 +75,34 @@ là nói về việc ngày nay mọi người có những quan điểm trái chi
 được thảo luận. Nếu áp dụng cách này chúng ta thường có thể bắt đầu viết phần
 background nhanh chóng bằng các mẫu câu sau:
 
-<ol class="formula">
+<ul class="formula">
 <li> Today, there are plenty of opposing opinions about whether S + V   </li>
 <li> Recently, there has been a lot of debate as to whether S + V   </li>
 <li> There is a growing concern in these years that S + V   </li>
 <li> In recent years, there has been a growing trend towards + N/$V_ing$   </li>
-</ol>
+</ul>
 
-<ol class="formula">
+<ul class="formula">
 <li>Nowadays people hold different opinions about whether S + V  </li>
 <li>Individuals take different views towards whether S + V  </li>
 <li>General public takes different points of view towards + N/$V_ing$  </li>
-</ol>
+</ul>
 
-<ol class="formula">
+<ul class="formula">
 <li>A question central to the current public debate is whether S + V  </li>
 <li>An issue people are openly debating is whether S + V  </li>
 <li>Opinions divide concerning whether S + V  </li>
-</ol>
+</ul>
 
-<ol class="formula">
+<ul class="formula">
 <li>It is an controversial subject whether S + V  </li>
 <li>It is a subject of debate whether S + V  </li>
-</ol>
+</ul>
 
-<ol class="formula">
+<ul class="formula">
 <li>N/$V_ing$ is one of the greatest social problems of our time.  </li>
 <li>N/$V_ing$ has long been an issue of concern to the public and to governments.  </li>
-</ol>
+</ul>
 
 Lưu ý chúng ta thường có thể dùng mệnh đề danh từ whether với nghĩa là “có hoặc không” trong các công thức trên. Áp dụng cách này vào ví dụ trên chúng ta có thể viết được một phần background mà
 không cần phải suy nghĩ nhiều như sau:
@@ -180,12 +180,12 @@ Trong phần ý kiến của mọi người này, chúng ta hãy chọn một
 hướng“agree/positive/should” hoặc “disagree/negative/should not” bất kì.
 Thông thường để viết câu này các bạn có thể bắt đầu câu bằng những cụm sau đây:
 
-<ol class="formula">
+<ul class="formula">
 <li>There is a perception that S + V  </li>
 <li>The idea that S + V has become widely accepted.  </li>
-</ol>
+</ul>
 
-<ol class="formula">
+<ul class="formula">
 <li>Many people agree that S + V               </li>
 <li>Many people contend that S + V             </li>
 <li>Many people claim that S + V  </li>
@@ -194,22 +194,22 @@ Thông thường để viết câu này các bạn có thể bắt đầu câu b
 <li>Some people take the position that S + V  </li>
 <li>One has reasons to believe that S + V  </li>
 <li>Some people subscribe to a view that S + V  </li>
-</ol>
+</ul>
 
-<ol class="formula">
+<ul class="formula">
 <li>Opponents argue that S + V  </li>
 <li>Critics claim that S + V  </li>
 <li>Proponents believe that S + V  </li>
 <li>Those who oppose N/$V_ing$ often argue that S + V  </li>
-</ol>
+</ul>
 
-<ol class="formula">
+<ul class="formula">
 <li>It is often said that S + V                 </li>
 <li>it is often claimed that S + V              </li>
 <li>It is often believed that S + V             </li>
 <li>It is often argued that S + V               </li>
 <li>It is suggested that S + V      </li>
-</ol>
+</ul>
 
 Bên cạnh đó chúng ta cũng thường cần dùng nhiều từ chỉ quan điểm thay phiên cho
 nhau ví du như:
@@ -252,14 +252,14 @@ giờ chúng ta sẽ chọn hướng của mình.
 
 Cách 1: Nếu bạn đồng tình với ý kiến của mọi người, hãy sử dụng:
 
-<ol class="formula">
+<ul class="formula">
 <li>I completely agree with this point of view.  </li>
 <li>In my opinion, this point of view is well-founded.</li>
 <li>As far as I am concerned, this point of view is well-grounded.</li>
 <li>From my own experience, this is a good idea.</li>
 <li>As far as I know, this is a good idea.</li>
 <li>To the best of my knowledge, this is a good idea.</li>
-</ol>
+</ul>
 
 - completely (adv) hoàn toàn
 - disagree (i) không đồng ý
@@ -267,7 +267,7 @@ Cách 1: Nếu bạn đồng tình với ý kiến của mọi người, hãy s�
 
 Cách 2: Nếu bạn không đồng tình với ý kiến của mọi người.
 
-<ol class="formula">
+<ul class="formula">
 <li>I completely disagree with this point of view.</li>
 <li>In my opinion, this point of view is unfounded.</li>
 <li>As far as I am concerned, this point of view is unfounded.</li>
@@ -277,7 +277,7 @@ Cách 2: Nếu bạn không đồng tình với ý kiến của mọi người.
 <li>I reject this notion, believing that S + V  </li>
 <li>I take the opposite position, believing that S + V  </li>
 <li>As opposed to this point of view, I believe that S + V  </li>
-</ol>
+</ul>
 
 - unfounded = unsupported = ungrounded = unjustified (adj) không có căn cứ
 
@@ -289,11 +289,11 @@ Phần này được thêm vào để làm dài phần mở bài, cũng như th�
 
 Chúng ta sẽ có phần ý kiến cá nhân đầy đủ như sau:
 
-<ol class="formula">
+<ul class="formula">
 <li>I completely agree with this point of view, and here/these are my reasons.  </li>
 <li>I completely disagree with this point of view, and my reasons are as follows.  </li>
 <li>I reject this notion, believing that adventure sports bring more benefits to society than disadvantages they create.</li>
-</ol>
+</ul>
 
 
 Ngoài ra các bạn có thể dùng các từ như “However, in contrast” để thể hiện ý kiến
@@ -329,7 +329,7 @@ benefits to society than disadvantages they create.
 Ở đây nói riêng và trong toàn bộ bài essay nói chung chúng ta sẽ dùng khá nhiều cụm
 từ kiểu “I believe that”. Có một số cách viết khác như sau:
 
-<ol class="formula">
+<ul class="formula">
 <li>I personally believe that S + V  </li>
 <li>I am supportive of the argument that S + V  </li>
 <li>I firmly believe that S + V  </li>
@@ -347,7 +347,7 @@ từ kiểu “I believe that”. Có một số cách viết khác như sau:
 <li>I contend that S + V  </li>
 <li>From my own experience, S + V  </li>
 <li>I am of the opinion that S + V  </li>
-</ol>
+</ul>
 
 Ghép các thông tin của cả ba phần trên lại chúng ta có một phần introduction đầy đủ như sau:
 
@@ -392,7 +392,7 @@ ta một lý do chính để bảo vệ quan điểm của chúng ta ở phần 
 câu topic của đoạn thân bài thứ nhất chúng ta thường xuyên có thể bắt đầu bằng các
 cụm:
 
-<ol class="formula">
+<ul class="formula">
 <li>The first reason is that S + V  </li>
 <li>One reason is that S + V  </li>
 <li>One reason for/against N/$V_ing$ is that S + V  </li>
@@ -410,7 +410,7 @@ cụm:
 <li>It is important to recognize that S + V  </li>
 <li>It should be first noted that S + V  </li>
 <li>People should first recognize that S + V  </li>
-</ol>
+</ul>
 
 - justification (c) a good reason/explanation
 
@@ -452,20 +452,20 @@ Nếu các bạn lựa chọn hướng giải thích như Cách 2 và dẫn đ�
 Các bạn thường cần dùng các từ và cụm từ để nói về kết quả. Các bạn có thể sử
 dụng:
 
-<ol class="formula">
+<ul class="formula">
 <li>So,</li>
 <li>Thus,</li>
 <li>Therefore,</li>
 <li>As a result,</li>
 <li>As a consequence,</li>
-</ol>
+</ul>
 
-<ol class="formula">
+<ul class="formula">
 <li>Consequently,</li>
 <li>Hence,</li>
 <li>Accordingly,</li>
 <li>For this reason,</li>
-</ol>
+</ul>
 
 Quan sát lại câu topic:
 
@@ -536,13 +536,13 @@ các bài viết task 2.
 
 Để đưa ra ví dụ chúng ta có nhiều cách, nhưng cách thông dụng thường là dùng "for example" hoặc "for instance”. Hoặc chúng ta có thể dùng các cấu trúc như “X can be taken/cited as a typical example” như dưới đây:
 
-<ol class="formula">
+<ul class="formula">
 <li>For example,  </li>
 <li>For instance,  </li>
 <li>X can be taken/cited as a typical example.  </li>
 <li>A typical/telling example (to support this) is that S + V  </li>
 <li>A case in point is that S + V  </li>
-</ol>
+</ul>
 
 Trong ví dụ này chúng ta đơn giản có thể lấy ví dụ về các môn thể thao cụ thể.
 Các bạn có thể áp dụng để viết phần ví dụ theo những cách khác nhau như sau:
@@ -600,7 +600,7 @@ giảm tới mức tối thiểu và cấm chúng là không hợp lý.
 
 Dưới đây là một số cách bắt đầu câu kết đoạn:
 
-<ol class="formula">
+<ul class="formula">
 <li>It means that S+ V  </li>
 <li>From this we can conclude that S+ V  </li>
 <li>It is therefore evident that S+ V  </li>
@@ -609,7 +609,7 @@ Dưới đây là một số cách bắt đầu câu kết đoạn:
 <li>This is a reflection of the fact that S+ V  </li>
 <li>As a consequence, S+ V  </li>
 <li>All this evidence demonstrates that S + V  </li>
-</ol>
+</ul>
 
 Bây giờ chúng ta hãy quan sát một đoạn thân bài sau khi hoàn tất:
 
@@ -631,33 +631,33 @@ Phần body paragraph 2 hoàn toàn tương tự như cách lập luận của p
 có khác biệt ở câu mở đầu bởi vì đây là lý do thứ hai chúng ta đưa ra nên các bạn sẽ
 bắt đầu bằng:
 
-<ol class="formula">
+<ul class="formula">
 <li>*Another reason is that S + V     </li>
 <li>*A further reason is that S + V              </li>
 <li>*The second reason is that S + V  </li>
-</ol>
+</ul>
 
-<ol class="formula">
+<ul class="formula">
 <li>Another satisfactory explanation is that S + V  </li>
 <li>Another point to support N/$V_ing$ is that S + V  </li>
 <li>Another reason for/against N/$V_ing$ is that S + V  </li>
-</ol>
+</ul>
 
-<ol class="formula">
+<ul class="formula">
 <li>Another problem is that S + V  </li>
 <li>Another fact to note is that S + V        </li>
 <li>Another benefit obtained from N/$V_ing$ is that S + V  </li>
 <li>Another justification for N/$V_ing$ is that S + V  </li>
-</ol>
+</ul>
 
-<ol class="formula">
+<ul class="formula">
 <li>People should meanwhile recognize the fact that S + V  </li>
-</ol>
+</ul>
 
-<ol class="formula">
+<ul class="formula">
 <li>Secondly, S + V                              </li>
 <li>Meanwhile, S + V                          </li>
-</ol>
+</ul>
 
 Ví dụ áp dụng:
 
@@ -677,9 +677,9 @@ Ngoài ra nếu các bạn bắt đầu bằng các cấu trúc có dấu (*) ch
 mệnh đề why phía sau reason, mục đích chỉ để lặp lại ý kiến của mình và kéo dài câu
 như sau:
 
-<ol class="formula">
+<ul class="formula">
 <li>The second reason [why S + V] is that S + V</li>
-</ol>
+</ul>
 
 Ví dụ trong trường hợp này: 
 
@@ -706,11 +706,11 @@ Chúng ta có thể viết câu trong mệnh đề why theo nhiều cách miễn
 
 Ví dụ mệnh đề why trong ví dụ này có thể được viết theo một số cách như:
 
-<ol class="formula">
+<ul class="formula">
 <li>The second reason [why governments should not ban these sports] is that S + V  </li>
 <li>The second reason [why banning these sports is unjustified ] is that S + V  </li>
 <li>The second reason [why I do not agree with the prohibition of these sports] is that S + V </li>
-</ol>
+</ul>
 
 Tuy nhiên lưu ý là trong các cấu trúc trên phần phía sau “that” mới quan trọng vì nó
 thể hiện nội dung của câu topic của chúng ta. Đây mới là nội dung chính, còn lại chỉ là
@@ -952,7 +952,7 @@ Thông thường khi viết một câu trong đoạn thân bài chúng ta thư�
 một số cụm ở đầu câu để thể hiện mức độ chắc chắn của lập luận, hoặc nối ý trước
 và ý sau lại với nhau, ví dụ như:
 
-<ol class="formula">
+<ul class="formula">
 <li>One should bear in mind the fact that S + V => Mọi người nên để ý đến thực tế là  </li>
 <li>It seems to be a fact that S + V  </li>
 <li>Both empirical knowledge and academic research suggest that S + V  </li>
@@ -985,7 +985,7 @@ và ý sau lại với nhau, ví dụ như:
 <li>it should be admitted that S + V = Admittedly, S + V => Thừa nhận là  </li>
 <li>There is a growing recognition that S + V  </li>
 <li>There is no guarantee/assurance that S + V => Không có gì đảm bảo là  </li>
-</ol>
+</ul>
 
 ## Conclusion
 
@@ -994,7 +994,7 @@ những nội dung chính chúng ta đã viết.
 
 Chúng ta có thể dùng một trong những cụm sau để bắt đầu phần kết luận của mình:
 
-<ol class="formula">
+<ul class="formula">
 <li>In conclusion,                           </li>
 <li>As outlined above,  </li>
 <li>To conclude,                             </li>
@@ -1009,7 +1009,7 @@ Chúng ta có thể dùng một trong những cụm sau để bắt đầu phầ
 <li>According to the above analysis,         </li>
 <li>From the preceding discussion,  </li>
 <li>As shown above,  </li>
-</ol>
+</ul>
 
 Khi viết theo cách này các bạn có thể đơn giản khẳng định lại quan điểm của người
 khác và quan điểm của mình để tạo thành câu kết bài. Nếu muốn gộp cả hai ý này
@@ -1466,12 +1466,12 @@ với quan điểm này và mở ra vế thứ hai với ý kiến trái ngượ
 
 Một số cách hay dùng như:
 
-<ol class="formula">
+<ul class="formula">
 <li>While I partly agree with the above viewpoint, I also believe that S + V</li>
 <li>Although I agree with the above viewpoint to some extent, I also believe that S+V</li>
 <li>To some extent I agree with the above viewpoint, but I also believe that S + V</li>
 <li>I partly agree with the above viewpoint, yet I also believe that S + V</li>
-</ol>
+</ul>
 
 Như vậy chúng ta sẽ có phần mở bài như sau:
 
@@ -1498,7 +1498,7 @@ rằng nhân viên không cần mặc quần áo trang trọng.
 Chúng ta có thể dùng một số cụm dưới đây để bắt đầu câu topic nhằm thể hiện rằng
 đoạn này sẽ nói về một hướng và đoạn sau là một hướng khác.
 
-<ol class="formula">
+<ul class="formula">
 <li>On the one hand,</li>
 <li>On the positive/negative side,</li>
 <li>Admittedly,</li>
@@ -1507,7 +1507,7 @@ Chúng ta có thể dùng một số cụm dưới đây để bắt đầu câu
 <li>The is no denying that S + V</li>
 <li>It is important to recognize that S + V</li>
 <li>There is little doubt that S + V</li>
-</ol>
+</ul>
 
 Ví dụ chúng ta có thể viết một câu topic để ủng hộ hướng thứ nhất đó là mặc quần
 áo trang trọng là không cần thiết.
@@ -1581,7 +1581,7 @@ quan điểm ngược lại.
 Chúng ta có thể dùng những cụm sau trong phần đầu của câu topic của đoạn thứ hai
 này, mục đích để thể hiện sự khác nhau về nội dung giữa hai đoạn:
 
-<ol class="formula">
+<ul class="formula">
 <li>On the other hand,</li>
 <li>However,</li>
 <li>Nevertheless,</li>
@@ -1592,7 +1592,7 @@ này, mục đích để thể hiện sự khác nhau về nội dung giữa hai
 <li>Despite the positives mentioned above,</li>
 <li>Despite the justifications given for X,</li>
 <li>Despite what has been discussed above,</li>
-</ol>
+</ul>
 
 Ví dụ:
 
@@ -1957,13 +1957,13 @@ cách sắp xếp hai luồng ý kiến ở phần mở bài.
 Để thể hiện đoạn thứ nhất là ý kiến của những người khác chúng ta có thể thay phiên
 để những phần sau vào các câu trong đoạn thân bài này:
 
-<ol class="formula">
+<ul class="formula">
 <li>Many people believe/claim/argue that S + V</li>
 <li>It is often believed/argued/claimed that S + V</li>
 <li>Those who oppose/advocate + N/$V_ing$ believe that S + V. </li>
 <li>This argument highlights/emphasizes that S + V (chỉ sử dụng từ câu thứ hai)</li>
 <li>According to this view, S + V (chỉ sử dụng từ câu thứ hai)</li>
-</ol>
+</ul>
 
 - highlight = emphasize (t) nhấn mạnh        
 - advocate (t) support: ủng hộ
@@ -2190,10 +2190,10 @@ Although I partly agree with the above point of view, I believe that dress codes
 Hai phần thân bài không có gì khác so với hai câu hỏi còn lại. Cũng đều là hai đoạn ý
 kiến của mình:
 
-<ol class="formula">
+<ul class="formula">
 <li>On the one hand,</li>
 <li>On the other hand, I also claim that</li>
-</ol>
+</ul>
 
 ## Conclusion
 
@@ -2412,13 +2412,13 @@ Sau khi viết xong câu đầu đối với dạng này chúng ta thường lu�
 
 Chúng ta có thể bắt đầu câu này bằng:
 
-<ol class="formula">
+<ul class="formula">
 <li>Here I will</li>
 <li>It is certainly necessary to $V_o$</li>
 <li>It is clearly important to $V_o$</li>
 <li>It is worthwhile to $V_o$</li>
 <li>It is reasonable to $V_o$</li>
-</ol>
+</ul>
 
 Sau đó tùy vào câu hỏi của đề bài, nếu đề bài hỏi về “cause/effect” chúng ta
 có thể viết tiếp như sau:
@@ -2501,7 +2501,7 @@ Tùy vào câu hỏi câu topic của mỗi đoạn thân bài chúng ta có th�
 Nêu ra nguyên nhân, tác động, khó khăn (…):
 
 
-<ol class="formula">
+<ul class="formula">
 <li>The main (hoặc principal/major/primary) cause is that S + V</li>
 <li>The most common factor responsible for N/$V_ing$ is N (hoặc that S+V)</li>
 <li>N/$V_ing$ is the most common factor that play a big role in N/$V_ing$</li>
@@ -2511,16 +2511,16 @@ Nêu ra nguyên nhân, tác động, khó khăn (…):
 <li>The main (hoặc principal/major/primary) effect of N/$V_ing$ is N (hoặc that S + V)</li>
 <li>One of the most significant benefits obtained from X is N (hoặc that S + V)</li>
 <li>Turning to possible effects, S + V</li>
-</ol>
+</ul>
 
 Đưa ra giải pháp:
 
-<ol class="formula">
+<ul class="formula">
 <li>The best approach to address ... is simply to + $V_o$</li>
 <li>The best way to Vo is to + $V_o$</li>
 <li>This problem can be solved by $V_ing$</li>
 <li>Moving on to possible solutions, S + V </li>
-</ol>
+</ul>
 
 Lưu ý điểm đặc biệt của dạng này đó là các từ đề cập đến “causes” “effects” hay
 “solutions”… thường là số nhiều. Vì vậy đoạn của chúng ta có thể đưa ra một hoặc
@@ -2529,7 +2529,7 @@ nhiều hơn một nguyên nhân, tác động… chính trong một đoạn.
 Trong trường hợp đoạn thân bài chúng ta có nhiều hơn một ý chính. Như đã hướng
 dẫn ở các phần trước chúng ta có thể dùng các từ sau để bắt đấu ý thứ hai:
 
-<ol class="formula">
+<ul class="formula">
 In addition,      
 Additionally,     
 Besides,          
@@ -2539,7 +2539,7 @@ Another reason for this is N (hoặc that S + V)
 Another force that drives N/$V_ing$ is + N (hoặc that S + V)
 The second consequence of N/$V_ing$ is N (hoặc that S+ V)
 The second noteworthy problem of N/$V_ing$ is N (hoặc that S + V)
-</ol>
+</ul>
 
 Hãy quan sát đoạn thân bài hoàn chỉnh dưới đây:
 

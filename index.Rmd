@@ -26,7 +26,7 @@ csl: chicago-fullnote-bibliography.csl
 quát về dạng này.
 Đề bài của dạng này thường chứa những câu hỏi dưới đây:
 
-<ol class="comment">
+<ul class="comment">
 <li>To what extent do you agree or disagree with the statement?  </li>
 <li>Do you think it is a positive or negative development?  </li>
 <li>Do the benefits (or advantages) outweigh the drawbacks (or disadvantages) ?  </li>
@@ -40,7 +40,7 @@ quát về dạng này.
 <li>What are the advantages and disadvantages?  </li>
 <li>Discuss the arguments for and against raising pets  </li>
 <li>Discuss both views and give your opinion.  </li>
-</ol>
+</ul>
 
 Nhìn vào những câu hỏi này các bạn sẽ thấy trong các dạng A,B,C, và D, đề bài đang
 hỏi về ý kiến cá nhân của người viết. Đồng thời đưa hai hướng cho chúng ta lựa
@@ -57,11 +57,11 @@ Bây giờ chúng ta sẽ xét dạng các câu hỏi thuộc dạng A,B,C và D
 
 Thông thường chúng ta sẽ gặp ba dạng câu hỏi đầu thường xuyên hơn:
 
-<ol class="comment">
+<ul class="comment">
 <li>To what extent do you agree or disagree with the statement?</li>
 <li>Do you think it is a positive or negative development?</li>
 <li>Do the benefits (or advantages) outweigh the drawbacks (or disadvantages)?</li>  
-</ol>
+</ul>
 
 Dưới đây là một số ví dụ của ba câu hỏi này:
 

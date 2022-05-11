@@ -42,20 +42,26 @@ font-style: italic;
 
 ol.comment {
 background-color: #DBDBDB;
-padding: 10px;
 border: 1px solid black;
-margin-left: 25px;
 border-radius: 5px;
-font-style: italic;
 }
 
 ol.formula {
 background-color: #FE4A49;
-padding: 10px;
 border: 1px solid black;
-margin-left: 25px;
 border-radius: 5px;
-font-style: italic;
+}
+
+ul.comment {
+background-color: #DBDBDB;
+border: 1px solid black;
+border-radius: 5px;
+}
+
+ul.formula {
+background-color: #FE4A49;
+border: 1px solid black;
+border-radius: 5px;
 }
 
 p.caption {
